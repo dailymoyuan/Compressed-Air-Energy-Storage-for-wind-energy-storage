@@ -1,0 +1,2 @@
+# Compressed-Air-Energy-Storage-for-wind-energy-storage
+Compressed Air Energy Storage (CAES) as a popular technology for wind energy storage, is mathematically integrated with a novel hydraulic wind power system. The integration of compressed air energy storage has improved the quality of power delivery while maintaining a stable frequency generation in the 600 kW hydraulic wind power system under variable wind speeds. 
